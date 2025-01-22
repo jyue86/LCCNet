@@ -10,7 +10,7 @@ opencv-python
 cupy_cuda90==6.0.0
 pykitti
 numpy
-tensorboardX
+tensorboardX==1.9
 open3d-python==0.7.0.0
 Pillow
 scikit-image
